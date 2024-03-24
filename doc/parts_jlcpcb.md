@@ -1,7 +1,7 @@
 
 # Parts list
 
-## 2024/03
+## 2024/03 (tag: 20240324-jlcpcb-order)
 
 Here is a parts list of the 2024/03 order for JLCPCB.
 
