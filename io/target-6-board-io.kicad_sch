@@ -3023,7 +3023,7 @@
     )
     (pin "1" (uuid ba8fc684-006d-4c11-8002-29e3cbd748e7))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR05") (unit 1)
         )
@@ -3051,7 +3051,7 @@
     (pin "4" (uuid 9cb083f3-f1f1-49ad-a605-f5e1a1baac36))
     (pin "1" (uuid f32a70d7-17a1-476f-9217-fb9b2fc91734))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J8") (unit 1)
         )
@@ -3079,7 +3079,7 @@
     (pin "4" (uuid 1a69d154-9da8-4551-a770-eb0d184f0a29))
     (pin "1" (uuid 98956178-bffc-4be1-b1c1-7c3fa6bc3a4a))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J9") (unit 1)
         )
@@ -3115,7 +3115,7 @@
     (pin "3" (uuid 565d6150-2cd1-484b-a1d9-8bf97f803c49))
     (pin "1" (uuid b8985ddb-66a3-4bd9-9425-64e546f846c1))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "Q1") (unit 1)
         )
@@ -3151,7 +3151,7 @@
     (pin "3" (uuid eb8964e4-7788-4f62-bf8e-c9ebbccbf89e))
     (pin "2" (uuid 38a73261-ab1a-45b7-8ad6-d01b679b4176))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J2") (unit 1)
         )
@@ -3177,7 +3177,7 @@
     (pin "2" (uuid dabaf0f8-0d79-4b6b-a1ff-02f141eea658))
     (pin "1" (uuid d3c3dc5b-4834-4ab6-8491-a00b1d5eab3d))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R12") (unit 1)
         )
@@ -3213,7 +3213,7 @@
     (pin "3" (uuid 9e83c53f-3f01-4b24-bb96-9c1fbca50249))
     (pin "1" (uuid a88634a0-a45a-4626-a24b-ba174932342f))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "Q4") (unit 1)
         )
@@ -3237,7 +3237,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "H3") (unit 1)
         )
@@ -3263,7 +3263,7 @@
     (pin "2" (uuid 3a2475b1-2e9d-4849-8612-23c28c32ea7e))
     (pin "1" (uuid 93c61edb-4277-45bd-8956-415f322cd545))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R17") (unit 1)
         )
@@ -3291,7 +3291,7 @@
     (pin "4" (uuid 25e2e886-e92c-4600-a90a-a68990816c2d))
     (pin "1" (uuid 9522387c-0a9d-4042-afad-5e5835a089b7))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J10") (unit 1)
         )
@@ -3317,7 +3317,7 @@
     (pin "2" (uuid 02eda8b0-580a-46cc-aec2-204c8853a0a3))
     (pin "1" (uuid 0cc9d59e-b7e9-42cf-bac2-0a7e1d7be91d))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R10") (unit 1)
         )
@@ -3343,7 +3343,7 @@
     (pin "2" (uuid da3fda16-c522-4dde-874a-bd48e9b25193))
     (pin "1" (uuid 7b90e05d-c4ef-420d-8fe9-e1622e51275b))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R1") (unit 1)
         )
@@ -3379,7 +3379,7 @@
     (pin "3" (uuid 194e727f-10f7-471f-95fd-117bee68a644))
     (pin "1" (uuid 42d06bac-e790-4731-84b4-32333cedaa60))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "Q7") (unit 1)
         )
@@ -3405,7 +3405,7 @@
     (pin "2" (uuid 9c0b9cea-f1f0-4136-85ab-f12220e146b7))
     (pin "1" (uuid 0d0f01ce-9e19-4849-a048-77cf19ad41b7))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R4") (unit 1)
         )
@@ -3429,7 +3429,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "H4") (unit 1)
         )
@@ -3455,7 +3455,7 @@
     (pin "2" (uuid 01dba2e5-d6ed-4078-9e57-a5de4c2aed85))
     (pin "1" (uuid 1ced8ae8-4d9e-4bbd-81fa-e4862a1038fe))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R9") (unit 1)
         )
@@ -3481,7 +3481,7 @@
     (pin "1" (uuid fc65928b-4265-48ec-b853-266b95d13f6c))
     (pin "2" (uuid 85875791-d10c-4bc4-b575-ba5b69ba8af0))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "D4") (unit 1)
         )
@@ -3506,7 +3506,7 @@
     )
     (pin "1" (uuid c863a95b-af4e-4d54-a905-e2668cff7684))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR09") (unit 1)
         )
@@ -3532,7 +3532,7 @@
     (pin "1" (uuid c1eaf22d-0fb8-477d-9303-9c3ae6cde326))
     (pin "2" (uuid 278985bb-4b8f-47ba-9cea-4a4dd5f48e0d))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "D2") (unit 1)
         )
@@ -3560,7 +3560,7 @@
     (pin "4" (uuid 442dc198-d21c-47b7-8935-578629cc8363))
     (pin "1" (uuid 42bffa54-61ee-4520-b06a-c7a9f0026e2d))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J12") (unit 1)
         )
@@ -3586,7 +3586,7 @@
     (pin "2" (uuid a4c3c5e6-3ec0-4065-b282-378debeade7d))
     (pin "1" (uuid 020714bc-2ca3-41b8-92d2-ea3e062da3dc))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R6") (unit 1)
         )
@@ -3611,7 +3611,7 @@
     )
     (pin "1" (uuid daf9b052-660c-4d24-ac65-33ba197e802d))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR01") (unit 1)
         )
@@ -3637,7 +3637,7 @@
     (pin "2" (uuid 15856a5e-d936-4b63-baa6-ea095a61db34))
     (pin "1" (uuid 692a5db8-6ab5-4a9c-a772-e0c51188e400))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R3") (unit 1)
         )
@@ -3665,7 +3665,7 @@
     (pin "4" (uuid 847c8348-0da4-4ed7-b1d8-20c0bfa6388c))
     (pin "1" (uuid 5c02ecf1-6968-4b59-8f0a-8aa128c45820))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J6") (unit 1)
         )
@@ -3691,7 +3691,7 @@
     (pin "2" (uuid a657fc6e-7fb1-456b-b04a-443300b3b685))
     (pin "1" (uuid 3fe13434-0a74-4189-86dd-fc37ff6ac48c))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R8") (unit 1)
         )
@@ -3725,7 +3725,7 @@
     (pin "1" (uuid 16d3cdbe-9624-404e-a0cc-567367fc128a))
     (pin "5" (uuid b3c4334b-e274-49aa-a7be-2705332d41c3))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J3") (unit 1)
         )
@@ -3761,7 +3761,7 @@
     (pin "3" (uuid 5f14976c-1d6e-40d0-a3f8-c42a96326ef4))
     (pin "1" (uuid 77a2d2e2-95e3-49ad-99cb-1a62c03ab78c))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "Q0") (unit 1)
         )
@@ -3786,7 +3786,7 @@
     )
     (pin "1" (uuid 1190eae5-32d1-4eeb-b6c8-7cdf87713d83))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR04") (unit 1)
         )
@@ -3812,7 +3812,7 @@
     (pin "2" (uuid 006d2063-6e1b-47dc-bae6-e431170160a7))
     (pin "1" (uuid 167050e9-f35d-4c08-93ba-d6a563f23213))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R14") (unit 1)
         )
@@ -3837,7 +3837,7 @@
     )
     (pin "1" (uuid da4ceb30-f592-49d8-9808-60ed3cc2d6e6))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR03") (unit 1)
         )
@@ -3863,7 +3863,7 @@
     (pin "2" (uuid 93c153fc-7215-4f3c-b698-b1180233a18f))
     (pin "1" (uuid 2e830747-3f9c-4028-ad2c-9dbf5b73711c))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "D7") (unit 1)
         )
@@ -3889,7 +3889,7 @@
     (pin "2" (uuid 5131936a-765b-41f5-a0a2-a4a9bd28b03a))
     (pin "1" (uuid 357830f7-d45f-44ba-9e58-2c9a1cc28ae8))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R16") (unit 1)
         )
@@ -3915,7 +3915,7 @@
     (pin "2" (uuid ee089cf1-4106-481a-b048-56778c382d17))
     (pin "1" (uuid f1f4598a-d301-4ee1-879e-e83daca4077a))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R2") (unit 1)
         )
@@ -3951,7 +3951,7 @@
     (pin "3" (uuid d0114e40-95d6-4550-a7ea-f84d7d1ce397))
     (pin "1" (uuid eed783f4-9f03-40b3-9606-24c275f0ff32))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "Q6") (unit 1)
         )
@@ -3977,7 +3977,7 @@
     (pin "2" (uuid 42be2e3a-98a8-41ff-b930-4557eb4e20da))
     (pin "1" (uuid b6447f97-3239-482e-bed4-e7bf68b655e6))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R5") (unit 1)
         )
@@ -4002,7 +4002,7 @@
     )
     (pin "1" (uuid f63685f4-9321-4632-9e1e-5ec25c6683ca))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR02") (unit 1)
         )
@@ -4027,7 +4027,7 @@
     )
     (pin "1" (uuid d055704f-2760-431d-b0ef-271d891f9753))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR012") (unit 1)
         )
@@ -4051,7 +4051,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "H2") (unit 1)
         )
@@ -4077,7 +4077,7 @@
     (pin "1" (uuid c5271dc3-a2b2-4990-b7c8-fe7f5fb9f4ee))
     (pin "2" (uuid 90d2b37e-0507-4ece-92c3-d7bea1ce3b4f))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "D5") (unit 1)
         )
@@ -4113,7 +4113,7 @@
     (pin "3" (uuid 3f583728-185d-49fc-8166-8e02b95efba0))
     (pin "1" (uuid 1ee56d08-05fe-4044-909a-2b74232b0188))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "Q5") (unit 1)
         )
@@ -4138,7 +4138,7 @@
     )
     (pin "1" (uuid 59442d05-bd8a-4c0e-9c48-45e1826fe38f))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR010") (unit 1)
         )
@@ -4164,7 +4164,7 @@
     (pin "2" (uuid 5c7214b1-cd78-4c88-aa02-5f96c1ebeb17))
     (pin "1" (uuid 238c29a6-3647-43eb-94e3-1d572c847e78))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "D6") (unit 1)
         )
@@ -4192,7 +4192,7 @@
     (pin "4" (uuid b7d99afe-12bf-4a2e-a8f5-6123495a8848))
     (pin "1" (uuid fae090a5-3919-45c2-920b-c13bdb813716))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J11") (unit 1)
         )
@@ -4228,7 +4228,7 @@
     (pin "3" (uuid c57e83bd-3361-4442-af98-2852d06bccc6))
     (pin "2" (uuid d6419d8c-c582-4a5d-918f-260bbafab623))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J4") (unit 1)
         )
@@ -4256,7 +4256,7 @@
     (pin "4" (uuid cfbd4774-d2a8-43eb-a281-7f9be56407e8))
     (pin "1" (uuid 465c61aa-bb6e-48b2-a943-3711da9e56a9))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J13") (unit 1)
         )
@@ -4281,7 +4281,7 @@
     )
     (pin "1" (uuid ec2b7849-644b-4d8c-9435-34e7147e7eba))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR08") (unit 1)
         )
@@ -4307,7 +4307,7 @@
     (pin "2" (uuid 172f88f8-420d-4bc3-9004-d1692f773933))
     (pin "1" (uuid 1203612e-e10b-42f7-af32-37b8cd39955c))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R13") (unit 1)
         )
@@ -4333,7 +4333,7 @@
     (pin "1" (uuid e495fe16-f1cb-4514-b6fb-8a127567e860))
     (pin "2" (uuid 7fdf3968-982d-4e99-a4dd-47745e1b72de))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "D3") (unit 1)
         )
@@ -4358,7 +4358,7 @@
     )
     (pin "1" (uuid 6b396dfc-8b8b-4209-9773-4f94f1a94412))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR07") (unit 1)
         )
@@ -4386,7 +4386,7 @@
     (pin "4" (uuid 08a4eb15-f2b0-405a-968b-39d417a49e9d))
     (pin "1" (uuid 00851f94-0d22-4852-8415-61d46f844ec0))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J7") (unit 1)
         )
@@ -4420,7 +4420,7 @@
     (pin "1" (uuid c7184550-fc8e-4933-88e7-fb4f70b67e4a))
     (pin "5" (uuid e126ca90-4697-4818-97ab-27260ae72f22))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J1") (unit 1)
         )
@@ -4446,7 +4446,7 @@
     (pin "1" (uuid 2a88958c-d2bb-4407-8951-f030170871b1))
     (pin "2" (uuid c6f02f42-978c-4402-a069-fd8c88d999ce))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "D1") (unit 1)
         )
@@ -4475,7 +4475,7 @@
     (pin "5" (uuid 0971d8bf-30a5-4b2b-ba39-8c43512b4235))
     (pin "3" (uuid 5c3377a6-8135-4713-b45d-5542ff518768))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J15") (unit 1)
         )
@@ -4501,7 +4501,7 @@
     (pin "2" (uuid 76526248-55bd-4cbf-a39e-19fa65f25438))
     (pin "1" (uuid 84c6a201-dc9d-424b-bd57-813e63ac3e8e))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R19") (unit 1)
         )
@@ -4532,7 +4532,7 @@
     (pin "B12" (uuid 5a88b72f-5ecf-4fd9-86aa-b4a26e284f71))
     (pin "S1" (uuid c110d4bf-c973-4f9c-ba76-277d35b178ce))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J16") (unit 1)
         )
@@ -4557,7 +4557,7 @@
     )
     (pin "1" (uuid bfbf423b-44fb-498c-a9d0-0983e2a354de))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR06") (unit 1)
         )
@@ -4593,7 +4593,7 @@
     (pin "3" (uuid bff8ec59-fbcd-4966-a318-089a2a895926))
     (pin "1" (uuid 00711800-f642-4da5-8835-df4d88f8ba01))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "Q3") (unit 1)
         )
@@ -4621,7 +4621,7 @@
     (pin "4" (uuid 352d411d-7d53-429e-9aea-789b7dc1c15b))
     (pin "1" (uuid 2c43361b-4b47-4397-84ab-53b517cdf91d))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J5") (unit 1)
         )
@@ -4645,7 +4645,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "H1") (unit 1)
         )
@@ -4671,7 +4671,7 @@
     (pin "2" (uuid 517cbc84-2471-42c9-9211-e034e622db06))
     (pin "1" (uuid 3f8542ab-b5ec-4f99-abc6-4eadfe65f19b))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R15") (unit 1)
         )
@@ -4696,7 +4696,7 @@
     )
     (pin "1" (uuid bc492fd5-b7da-4826-871b-f2c44aa6aae5))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "#PWR011") (unit 1)
         )
@@ -4725,7 +4725,7 @@
     (pin "5" (uuid 0b6308cb-2c31-4178-a4c2-bc20c5cfd922))
     (pin "3" (uuid 6cbc692d-6087-4220-a997-3696dcc51057))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "J14") (unit 1)
         )
@@ -4751,7 +4751,7 @@
     (pin "2" (uuid a4b2bf88-607f-41cd-9758-a34ae02fe3fa))
     (pin "1" (uuid 34dca6b0-089e-4ee6-ba09-af931ff0862e))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R7") (unit 1)
         )
@@ -4777,7 +4777,7 @@
     (pin "2" (uuid c885dd6a-1cda-48b8-8111-ca1fd31c340a))
     (pin "1" (uuid df2c2b48-2cef-4434-a8d3-d1f66e806f90))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R18") (unit 1)
         )
@@ -4803,7 +4803,7 @@
     (pin "1" (uuid 0462fd64-e7f8-45c1-acf3-d4986f85dd6f))
     (pin "2" (uuid 73622cdb-3129-46b2-8af7-a79251903404))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "D0") (unit 1)
         )
@@ -4839,7 +4839,7 @@
     (pin "3" (uuid a9762f3b-21f3-4260-b756-0734421c6a29))
     (pin "1" (uuid 1b3cf3f2-5362-43bf-9b94-de978de2cb33))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "Q2") (unit 1)
         )
@@ -4865,7 +4865,7 @@
     (pin "2" (uuid 3175b6fa-edc1-4d2d-9cee-3b02a083c11b))
     (pin "1" (uuid 855dd675-ed85-4c18-bb60-56589b210156))
     (instances
-      (project "target-6-board"
+      (project "target-6-board-io"
         (path "/86ed8ff8-d5c7-46c5-af46-e034d3099e1d"
           (reference "R11") (unit 1)
         )
