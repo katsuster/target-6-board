@@ -572,6 +572,9 @@
 
   (gr_rect (start 24.13 17.78) (end 55.88 64.77)
     (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp bd36ca0b-9d3a-44d7-8feb-eba7c68b437e))
+  (gr_text "target-6-sensor\nv1.0-rc2" (at 54.61 19.05 90) (layer "F.SilkS") (tstamp 328eff15-c199-49db-b377-455f90082ac2)
+    (effects (font (size 1 1) (thickness 0.125)) (justify right bottom))
+  )
 
   (segment (start 50.8 40.64) (end 50.8 38.1) (width 0.2) (layer "F.Cu") (net 2) (tstamp 0014ba25-a8ee-4807-850c-3aefef416ebf))
   (segment (start 50.8 38.1) (end 45.72 33.02) (width 0.2) (layer "F.Cu") (net 2) (tstamp 7a5970e3-4401-443e-b156-ea89031d3f3f))
