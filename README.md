@@ -13,7 +13,7 @@ Please refer these repositories if you have interest in other modules of `target
 ## Requires
 
 * Software
-  * KiCad 7.0
+  * KiCad 10.0
 
 
 ## How to use
